@@ -16,4 +16,3 @@
 14. ```git checkout -b dev```：创建并切换到分支，等于```git branch dev, git checkout dev```
 15. ```git branch```：查看分支
 16. ```git merge dev```：在master分支上合并dev分支
-17. ```git branch -d dev```：删除分支

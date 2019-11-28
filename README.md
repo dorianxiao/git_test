@@ -20,3 +20,4 @@
 18. ```git stash```：隐藏当前分支，等其他分支完成后可```git stash pop```恢复并删除该```stash```
 19. ``git stash apply``：恢复分支但不删除，```git stash drop```：删除
 20. ```git stash list```：查看所有stash
+21. ```git remote```：查看远程库信息，```git remote -v```：详细信息

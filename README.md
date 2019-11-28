@@ -15,11 +15,8 @@
 13. ```git clone https://github.com/dorianxiao/git_test```：克隆到本地
 14. ```git checkout -b dev```：创建并切换到分支，等于```git branch dev, git checkout dev```
 15. ```git branch```：查看分支
-16. ```git branch dev```：创建dev分支
-17. ```git checkout dev```：切换到dev分支
-18. ```git merge dev```：在master分支上合并dev分支
-19. ```git branch -d dev```：删除分支
-
-
-bug分支是这样修复的
-
+16. ```git merge dev```：在master分支上合并```dev```分支
+17. ```git branch -d dev```：删除分支
+18. ```git stash```：隐藏当前分支，等其他分支完成后可```git stash pop```恢复并删除该```stash```
+19. ``git stash apply``：恢复分支但不删除，```git stash drop```：删除
+20. ```git stash list```：查看所有stash

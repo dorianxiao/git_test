@@ -33,6 +33,4 @@
 16. ```git merge dev```：在master分支上合并dev分支
 
 17. ```git branch -d dev```：删除分支
-    dev分支
-
-    修改内容
+    

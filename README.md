@@ -21,3 +21,4 @@
 19. ``git stash apply``：恢复分支但不删除，```git stash drop```：删除
 20. ```git stash list```：查看所有stash
 21. ```git remote```：查看远程库信息，```git remote -v```：详细信息
+22. ```git branch -r -d origin/fenzhi1``` + ```git push origin :fenzhi1``` ：删除远程分支

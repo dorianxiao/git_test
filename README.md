@@ -1,4 +1,4 @@
-## git测试
+## Git tips
 
 1. ```git init ```：初始化git目录
 2. ```git add README.md```：添加文件到暂存区
